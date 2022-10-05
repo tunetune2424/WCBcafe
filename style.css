@@ -110,7 +110,7 @@ img {
 }
 
 #home {
-  background-image: url(../images/main-bg.jpg);
+  background-image: url(https://github.com/tunetune2424/WCBcafe/blob/main/main-bg.jpg?raw=true);
   min-height: 100vh;
 }
 
@@ -120,7 +120,7 @@ img {
 
 /* news */
 #news {
-  background-image: url(../images/news-bg.jpg);
+  background-image: url(https://github.com/tunetune2424/WCBcafe/blob/main/news-bg.jpg?raw=true);
   height: 270px;
   margin-bottom: 40px;
 
@@ -256,7 +256,7 @@ footer p{
 /* MENU
 ------------------------ */
 #menu {
-  background-image: url(../images/menu-bg.jpg);
+  background-image: url(https://github.com/tunetune2424/WCBcafe/blob/main/menu-bg.jpg?raw=true);
   min-height: 100vh;
 }
 .menu-content {
@@ -291,7 +291,7 @@ footer p{
 /* CONTACT
 ------------------------ */
 #contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(https://github.com/tunetune2424/WCBcafe/blob/main/contact-bg.jpg?raw=true);
   min-height: 100vh;
 }
 /* CONTACT--フォーム
